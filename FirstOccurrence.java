@@ -2,7 +2,7 @@
 // Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 
-class Solution {
+class FirstOccurrence {
     public int strStr(String haystack, String needle) {
 
         if(haystack.length() == 1) {
